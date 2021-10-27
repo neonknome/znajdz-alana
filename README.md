@@ -1,2 +1,2 @@
 # znajdzalana
-strona dla alana uwu
+Oficjalne repozytorium gry „Znajdź Alana!”
