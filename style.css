@@ -7,13 +7,15 @@ body {
 	background-color: #555555;
 }
 main {
-	display: flex;
+	display: grid;
 	align-items: center;
 	width: 40vw;
 	height: 500vh;
 	background-color: #3e4346;
+	flex-direction: column;
 }
 header {
+  
 	height: 45vh;
 	background: linear-gradient(180deg, #006369 0%, #002224 100%);
 }
