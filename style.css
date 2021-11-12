@@ -72,6 +72,7 @@ article > h2 {
         color: #2bceff;
 }
 #title {
-        font-size: 72px;
+        font-size: 48px;
+	color: #55dee0;
 }
 }
