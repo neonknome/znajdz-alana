@@ -83,4 +83,13 @@ article > h2 {
 	width: 328px;
 	height: 72px;
 }
+#version {
+	font-size: 48px;
+	color: #4dffe7;
+}
+#verdesc {
+	font-size: 32px;
+	color: #bf70ff;
+}
+}
 }
