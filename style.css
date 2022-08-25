@@ -10,7 +10,7 @@ main {
 	display: flex;
 	align-items: center;
 	width: 40vw;
-	height: 1400vh;
+	height: 2000vh;
 	background-color: #3e4346;
 	flex-direction: column;
 }
